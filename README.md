@@ -27,4 +27,4 @@ Run the cmd in logic implementation.
 ### Step 3
 Create a Pull Request only after you have completed the entire project and do not wish to make any further changes. We will not be accepting more than one Pull Request from any team. \
 \
-You can complete your work on the local machine and then upload your project folder in the forked repository and proceed to create a Pull Request. And wait for your merge to be accepted.
+You can complete your work on the local machine and then upload your project folder in the forked repository and proceed to create a Pull Request.
