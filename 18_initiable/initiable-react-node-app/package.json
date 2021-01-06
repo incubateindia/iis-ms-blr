@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Alive-Kiwi/crud-login-template#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "azure-storage": "^2.10.3",
     "bcryptjs": "^2.4.3",
     "concurrently": "^5.0.2",
